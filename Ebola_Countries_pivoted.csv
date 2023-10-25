@@ -1,0 +1,739 @@
+,Country,Epi week,Ebola data source,Confirmed_cases,Probable_cases
+0,Guinea,01 to 07 December 2014 (2014-W49),Patient database,220.0,22.0
+1,Guinea,01 to 07 December 2014 (2014-W49),Situation report,192.0,14.0
+2,Guinea,01 to 07 February 2016 (2016-W05),Patient database,0.0,0.0
+3,Guinea,01 to 07 February 2016 (2016-W05),Situation report,0.0,0.0
+4,Guinea,01 to 07 June 2015 (2015-W23),Patient database,24.0,0.0
+5,Guinea,01 to 07 June 2015 (2015-W23),Situation report,24.0,0.0
+6,Guinea,01 to 07 September 2014 (2014-W36),Patient database,202.0,8.0
+7,Guinea,01 to 07 September 2014 (2014-W36),Situation report,0.0,0.0
+8,Guinea,02 to 08 February 2015 (2015-W06),Patient database,128.0,14.0
+9,Guinea,02 to 08 February 2015 (2015-W06),Situation report,130.0,2.0
+10,Guinea,02 to 08 June 2014 (2014-W23),Patient database,48.0,8.0
+11,Guinea,02 to 08 June 2014 (2014-W23),Situation report,0.0,0.0
+12,Guinea,02 to 08 March 2015 (2015-W10),Patient database,116.0,2.0
+13,Guinea,02 to 08 March 2015 (2015-W10),Situation report,116.0,0.0
+14,Guinea,02 to 08 May 2016 (2016-W18),Patient database,0.0,0.0
+15,Guinea,02 to 08 May 2016 (2016-W18),Situation report,0.0,0.0
+16,Guinea,02 to 08 November 2015 (2015-W45),Patient database,0.0,0.0
+17,Guinea,02 to 08 November 2015 (2015-W45),Situation report,0.0,0.0
+18,Guinea,03 to 09 August 2015 (2015-W32),Patient database,4.0,0.0
+19,Guinea,03 to 09 August 2015 (2015-W32),Situation report,4.0,0.0
+20,Guinea,03 to 09 February 2014 (2014-W06),Patient database,0.0,10.0
+21,Guinea,03 to 09 February 2014 (2014-W06),Situation report,0.0,0.0
+22,Guinea,03 to 09 March 2014 (2014-W10),Patient database,4.0,12.0
+23,Guinea,03 to 09 March 2014 (2014-W10),Situation report,0.0,0.0
+24,Guinea,04 to 10 April 2016 (2016-W14),Patient database,0.0,0.0
+25,Guinea,04 to 10 April 2016 (2016-W14),Situation report,2.0,0.0
+26,Guinea,04 to 10 August 2014 (2014-W32),Patient database,42.0,0.0
+27,Guinea,04 to 10 August 2014 (2014-W32),Situation report,0.0,0.0
+28,Guinea,04 to 10 January 2016 (2016-W01),Patient database,0.0,0.0
+29,Guinea,04 to 10 January 2016 (2016-W01),Situation report,0.0,0.0
+30,Guinea,04 to 10 May 2015 (2015-W19),Patient database,14.0,0.0
+31,Guinea,04 to 10 May 2015 (2015-W19),Situation report,14.0,0.0
+32,Guinea,05 to 11 January 2015 (2015-W02),Patient database,84.0,32.0
+33,Guinea,05 to 11 January 2015 (2015-W02),Situation report,84.0,4.0
+34,Guinea,05 to 11 May 2014 (2014-W19),Patient database,16.0,6.0
+35,Guinea,05 to 11 May 2014 (2014-W19),Situation report,0.0,0.0
+36,Guinea,05 to 11 October 2015 (2015-W41),Patient database,0.0,0.0
+37,Guinea,05 to 11 October 2015 (2015-W41),Situation report,0.0,0.0
+38,Guinea,06 to 12 April 2015 (2015-W15),Patient database,62.0,2.0
+39,Guinea,06 to 12 April 2015 (2015-W15),Situation report,56.0,0.0
+40,Guinea,06 to 12 January 2014 (2014-W02),Patient database,0.0,0.0
+41,Guinea,06 to 12 January 2014 (2014-W02),Situation report,0.0,0.0
+42,Guinea,06 to 12 July 2015 (2015-W28),Patient database,26.0,0.0
+43,Guinea,06 to 12 July 2015 (2015-W28),Situation report,26.0,0.0
+44,Guinea,06 to 12 October 2014 (2014-W41),Patient database,262.0,26.0
+45,Guinea,06 to 12 October 2014 (2014-W41),Situation report,274.0,20.0
+46,Guinea,07 to 13 April 2014 (2014-W15),Patient database,54.0,0.0
+47,Guinea,07 to 13 April 2014 (2014-W15),Situation report,0.0,0.0
+48,Guinea,07 to 13 December 2015 (2015-W50),Patient database,0.0,0.0
+49,Guinea,07 to 13 December 2015 (2015-W50),Situation report,0.0,0.0
+50,Guinea,07 to 13 July 2014 (2014-W28),Patient database,10.0,2.0
+51,Guinea,07 to 13 July 2014 (2014-W28),Situation report,0.0,0.0
+52,Guinea,07 to 13 March 2016 (2016-W10),Patient database,0.0,0.0
+53,Guinea,07 to 13 March 2016 (2016-W10),Situation report,0.0,0.0
+54,Guinea,07 to 13 September 2015 (2015-W37),Patient database,0.0,0.0
+55,Guinea,07 to 13 September 2015 (2015-W37),Situation report,0.0,0.0
+56,Guinea,08 to 14 December 2014 (2014-W50),Patient database,150.0,28.0
+57,Guinea,08 to 14 December 2014 (2014-W50),Situation report,152.0,86.0
+58,Guinea,08 to 14 February 2016 (2016-W06),Patient database,0.0,0.0
+59,Guinea,08 to 14 February 2016 (2016-W06),Situation report,0.0,0.0
+60,Guinea,08 to 14 June 2015 (2015-W24),Patient database,20.0,2.0
+61,Guinea,08 to 14 June 2015 (2015-W24),Situation report,20.0,0.0
+62,Guinea,08 to 14 September 2014 (2014-W37),Patient database,158.0,30.0
+63,Guinea,08 to 14 September 2014 (2014-W37),Situation report,0.0,0.0
+64,Guinea,09 to 15 February 2015 (2015-W07),Patient database,102.0,18.0
+65,Guinea,09 to 15 February 2015 (2015-W07),Situation report,104.0,0.0
+66,Guinea,09 to 15 June 2014 (2014-W24),Patient database,58.0,10.0
+67,Guinea,09 to 15 June 2014 (2014-W24),Situation report,0.0,0.0
+68,Guinea,09 to 15 March 2015 (2015-W11),Patient database,188.0,2.0
+69,Guinea,09 to 15 March 2015 (2015-W11),Situation report,190.0,0.0
+70,Guinea,09 to 15 November 2015 (2015-W46),Patient database,0.0,0.0
+71,Guinea,09 to 15 November 2015 (2015-W46),Situation report,0.0,0.0
+72,Guinea,10 to 16 August 2015 (2015-W33),Patient database,6.0,0.0
+73,Guinea,10 to 16 August 2015 (2015-W33),Situation report,6.0,0.0
+74,Guinea,10 to 16 February 2014 (2014-W07),Patient database,0.0,6.0
+75,Guinea,10 to 16 February 2014 (2014-W07),Situation report,0.0,0.0
+76,Guinea,10 to 16 March 2014 (2014-W11),Patient database,22.0,30.0
+77,Guinea,10 to 16 March 2014 (2014-W11),Situation report,0.0,0.0
+78,Guinea,10 to 16 November 2014 (2014-W46),Patient database,186.0,14.0
+79,Guinea,10 to 16 November 2014 (2014-W46),Situation report,162.0,8.0
+80,Guinea,11 to 17 April 2016 (2016-W15),Patient database,0.0,0.0
+81,Guinea,11 to 17 April 2016 (2016-W15),Situation report,0.0,0.0
+82,Guinea,11 to 17 August 2014 (2014-W33),Patient database,80.0,8.0
+83,Guinea,11 to 17 August 2014 (2014-W33),Situation report,0.0,0.0
+84,Guinea,11 to 17 January 2016 (2016-W02),Patient database,0.0,0.0
+85,Guinea,11 to 17 January 2016 (2016-W02),Situation report,0.0,0.0
+86,Guinea,11 to 17 May 2015 (2015-W20),Patient database,54.0,12.0
+87,Guinea,11 to 17 May 2015 (2015-W20),Situation report,54.0,8.0
+88,Guinea,12 to 18 January 2015 (2015-W03),Patient database,38.0,6.0
+89,Guinea,12 to 18 January 2015 (2015-W03),Situation report,40.0,4.0
+90,Guinea,12 to 18 May 2014 (2014-W20),Patient database,12.0,4.0
+91,Guinea,12 to 18 May 2014 (2014-W20),Situation report,0.0,0.0
+92,Guinea,12 to 18 October 2015 (2015-W42),Patient database,6.0,0.0
+93,Guinea,12 to 18 October 2015 (2015-W42),Situation report,6.0,0.0
+94,Guinea,13 to 19 April 2015 (2015-W16),Patient database,32.0,2.0
+95,Guinea,13 to 19 April 2015 (2015-W16),Situation report,38.0,0.0
+96,Guinea,13 to 19 January 2014 (2014-W03),Patient database,0.0,0.0
+97,Guinea,13 to 19 January 2014 (2014-W03),Situation report,0.0,0.0
+98,Guinea,13 to 19 July 2015 (2015-W29),Patient database,44.0,0.0
+99,Guinea,13 to 19 July 2015 (2015-W29),Situation report,44.0,0.0
+100,Guinea,13 to 19 October 2014 (2014-W42),Patient database,220.0,10.0
+101,Guinea,13 to 19 October 2014 (2014-W42),Situation report,204.0,0.0
+102,Guinea,14 to 20 April 2014 (2014-W16),Patient database,32.0,0.0
+103,Guinea,14 to 20 April 2014 (2014-W16),Situation report,0.0,0.0
+104,Guinea,14 to 20 December 2015 (2015-W51),Patient database,0.0,0.0
+105,Guinea,14 to 20 December 2015 (2015-W51),Situation report,0.0,0.0
+106,Guinea,14 to 20 July 2014 (2014-W29),Patient database,10.0,6.0
+107,Guinea,14 to 20 July 2014 (2014-W29),Situation report,0.0,0.0
+108,Guinea,14 to 20 March 2016 (2016-W11),Patient database,0.0,0.0
+109,Guinea,14 to 20 March 2016 (2016-W11),Situation report,4.0,6.0
+110,Guinea,14 to 20 September 2015 (2015-W38),Patient database,4.0,2.0
+111,Guinea,14 to 20 September 2015 (2015-W38),Situation report,4.0,2.0
+112,Guinea,15 to 21 December 2014 (2014-W51),Patient database,338.0,94.0
+113,Guinea,15 to 21 December 2014 (2014-W51),Situation report,312.0,0.0
+114,Guinea,15 to 21 February 2016 (2016-W07),Patient database,0.0,0.0
+115,Guinea,15 to 21 February 2016 (2016-W07),Situation report,0.0,0.0
+116,Guinea,15 to 21 June 2015 (2015-W25),Patient database,26.0,14.0
+117,Guinea,15 to 21 June 2015 (2015-W25),Situation report,24.0,0.0
+118,Guinea,15 to 21 September 2014 (2014-W38),Patient database,162.0,2.0
+119,Guinea,15 to 21 September 2014 (2014-W38),Situation report,154.0,2.0
+120,Guinea,16 to 22 February 2015 (2015-W08),Patient database,74.0,4.0
+121,Guinea,16 to 22 February 2015 (2015-W08),Situation report,70.0,0.0
+122,Guinea,16 to 22 June 2014 (2014-W25),Patient database,36.0,0.0
+123,Guinea,16 to 22 June 2014 (2014-W25),Situation report,0.0,0.0
+124,Guinea,16 to 22 March 2015 (2015-W12),Patient database,88.0,4.0
+125,Guinea,16 to 22 March 2015 (2015-W12),Situation report,90.0,2.0
+126,Guinea,16 to 22 November 2015 (2015-W47),Patient database,0.0,0.0
+127,Guinea,16 to 22 November 2015 (2015-W47),Situation report,0.0,0.0
+128,Guinea,17 to 23 August 2015 (2015-W34),Patient database,6.0,0.0
+129,Guinea,17 to 23 August 2015 (2015-W34),Situation report,6.0,0.0
+130,Guinea,17 to 23 February 2014 (2014-W08),Patient database,0.0,10.0
+131,Guinea,17 to 23 February 2014 (2014-W08),Situation report,0.0,0.0
+132,Guinea,17 to 23 March 2014 (2014-W12),Patient database,22.0,12.0
+133,Guinea,17 to 23 March 2014 (2014-W12),Situation report,0.0,0.0
+134,Guinea,17 to 23 November 2014 (2014-W47),Patient database,298.0,42.0
+135,Guinea,17 to 23 November 2014 (2014-W47),Situation report,296.0,12.0
+136,Guinea,18 to 24 April 2016 (2016-W16),Patient database,0.0,0.0
+137,Guinea,18 to 24 April 2016 (2016-W16),Situation report,0.0,0.0
+138,Guinea,18 to 24 August 2014 (2014-W34),Patient database,150.0,4.0
+139,Guinea,18 to 24 August 2014 (2014-W34),Situation report,0.0,0.0
+140,Guinea,18 to 24 January 2016 (2016-W03),Patient database,0.0,0.0
+141,Guinea,18 to 24 January 2016 (2016-W03),Situation report,0.0,0.0
+142,Guinea,18 to 24 May 2015 (2015-W21),Patient database,18.0,0.0
+143,Guinea,18 to 24 May 2015 (2015-W21),Situation report,18.0,0.0
+144,Guinea,19 to 25 January 2015 (2015-W04),Patient database,64.0,32.0
+145,Guinea,19 to 25 January 2015 (2015-W04),Situation report,60.0,2.0
+146,Guinea,19 to 25 May 2014 (2014-W21),Patient database,46.0,8.0
+147,Guinea,19 to 25 May 2014 (2014-W21),Situation report,0.0,0.0
+148,Guinea,19 to 25 October 2015 (2015-W43),Patient database,6.0,0.0
+149,Guinea,19 to 25 October 2015 (2015-W43),Situation report,6.0,0.0
+150,Guinea,20 to 26 April 2015 (2015-W17),Patient database,44.0,0.0
+151,Guinea,20 to 26 April 2015 (2015-W17),Situation report,44.0,0.0
+152,Guinea,20 to 26 January 2014 (2014-W04),Patient database,0.0,10.0
+153,Guinea,20 to 26 January 2014 (2014-W04),Situation report,0.0,0.0
+154,Guinea,20 to 26 July 2015 (2015-W30),Patient database,8.0,2.0
+155,Guinea,20 to 26 July 2015 (2015-W30),Situation report,8.0,0.0
+156,Guinea,20 to 26 October 2014 (2014-W43),Patient database,164.0,28.0
+157,Guinea,20 to 26 October 2014 (2014-W43),Situation report,150.0,18.0
+158,Guinea,21 to 27 April 2014 (2014-W17),Patient database,22.0,0.0
+159,Guinea,21 to 27 April 2014 (2014-W17),Situation report,0.0,0.0
+160,Guinea,21 to 27 December 2015 (2015-W52),Patient database,0.0,0.0
+161,Guinea,21 to 27 December 2015 (2015-W52),Situation report,0.0,0.0
+162,Guinea,21 to 27 July 2014 (2014-W30),Patient database,64.0,22.0
+163,Guinea,21 to 27 July 2014 (2014-W30),Situation report,0.0,0.0
+164,Guinea,21 to 27 March 2016 (2016-W12),Patient database,0.0,0.0
+165,Guinea,21 to 27 March 2016 (2016-W12),Situation report,4.0,0.0
+166,Guinea,21 to 27 September 2015 (2015-W39),Patient database,8.0,0.0
+167,Guinea,21 to 27 September 2015 (2015-W39),Situation report,8.0,0.0
+168,Guinea,22 to 28 December 2014 (2014-W52),Patient database,206.0,14.0
+169,Guinea,22 to 28 December 2014 (2014-W52),Situation report,230.0,24.0
+170,Guinea,22 to 28 February 2016 (2016-W08),Patient database,0.0,0.0
+171,Guinea,22 to 28 February 2016 (2016-W08),Situation report,0.0,0.0
+172,Guinea,22 to 28 June 2015 (2015-W26),Patient database,22.0,2.0
+173,Guinea,22 to 28 June 2015 (2015-W26),Situation report,24.0,0.0
+174,Guinea,22 to 28 September 2014 (2014-W39),Patient database,242.0,20.0
+175,Guinea,22 to 28 September 2014 (2014-W39),Situation report,234.0,18.0
+176,Guinea,23 February to 01 March 2015 (2015-W09),Patient database,106.0,0.0
+177,Guinea,23 February to 01 March 2015 (2015-W09),Situation report,102.0,0.0
+178,Guinea,23 to 29 June 2014 (2014-W26),Patient database,44.0,4.0
+179,Guinea,23 to 29 June 2014 (2014-W26),Situation report,0.0,0.0
+180,Guinea,23 to 29 March 2015 (2015-W13),Patient database,110.0,2.0
+181,Guinea,23 to 29 March 2015 (2015-W13),Situation report,114.0,0.0
+182,Guinea,23 to 29 November 2015 (2015-W48),Patient database,0.0,0.0
+183,Guinea,23 to 29 November 2015 (2015-W48),Situation report,0.0,0.0
+184,Guinea,24 February to 02 March 2014 (2014-W09),Patient database,2.0,16.0
+185,Guinea,24 February to 02 March 2014 (2014-W09),Situation report,0.0,0.0
+186,Guinea,24 to 30 August 2015 (2015-W35),Patient database,4.0,0.0
+187,Guinea,24 to 30 August 2015 (2015-W35),Situation report,4.0,0.0
+188,Guinea,24 to 30 March 2014 (2014-W13),Patient database,48.0,12.0
+189,Guinea,24 to 30 March 2014 (2014-W13),Situation report,0.0,0.0
+190,Guinea,24 to 30 November 2014 (2014-W48),Patient database,170.0,14.0
+191,Guinea,24 to 30 November 2014 (2014-W48),Situation report,154.0,0.0
+192,Guinea,25 April to 01 May 2016 (2016-W17),Patient database,0.0,0.0
+193,Guinea,25 April to 01 May 2016 (2016-W17),Situation report,0.0,0.0
+194,Guinea,25 to 31 August 2014 (2014-W35),Patient database,190.0,18.0
+195,Guinea,25 to 31 August 2014 (2014-W35),Situation report,0.0,0.0
+196,Guinea,25 to 31 January 2016 (2016-W04),Patient database,0.0,0.0
+197,Guinea,25 to 31 January 2016 (2016-W04),Situation report,0.0,0.0
+198,Guinea,25 to 31 May 2015 (2015-W22),Patient database,26.0,0.0
+199,Guinea,25 to 31 May 2015 (2015-W22),Situation report,26.0,0.0
+200,Guinea,26 January to 01 February 2015 (2015-W05),Patient database,82.0,14.0
+201,Guinea,26 January to 01 February 2015 (2015-W05),Situation report,78.0,4.0
+202,Guinea,26 May to 01 June 2014 (2014-W22),Patient database,72.0,28.0
+203,Guinea,26 May to 01 June 2014 (2014-W22),Situation report,0.0,0.0
+204,Guinea,26 October to 01 November 2015 (2015-W44),Patient database,2.0,0.0
+205,Guinea,26 October to 01 November 2015 (2015-W44),Situation report,2.0,0.0
+206,Guinea,27 April to 03 May 2015 (2015-W18),Patient database,18.0,2.0
+207,Guinea,27 April to 03 May 2015 (2015-W18),Situation report,18.0,0.0
+208,Guinea,27 January to 02 February 2014 (2014-W05),Patient database,0.0,6.0
+209,Guinea,27 January to 02 February 2014 (2014-W05),Situation report,0.0,0.0
+210,Guinea,27 July to 02 August 2015 (2015-W31),Patient database,2.0,0.0
+211,Guinea,27 July to 02 August 2015 (2015-W31),Situation report,2.0,0.0
+212,Guinea,27 October to 02 November 2014 (2014-W44),Patient database,180.0,14.0
+213,Guinea,27 October to 02 November 2014 (2014-W44),Situation report,186.0,0.0
+214,Guinea,27 October to 09 November 2014 (2014-W45),Patient database,306.0,18.0
+215,Guinea,27 October to 09 November 2014 (2014-W45),Situation report,290.0,6.0
+216,Guinea,28 April to 04 May 2014 (2014-W18),Patient database,6.0,18.0
+217,Guinea,28 April to 04 May 2014 (2014-W18),Situation report,0.0,0.0
+218,Guinea,28 December 2015 to 03 January 2016 (2015-W53),Patient database,0.0,0.0
+219,Guinea,28 December 2015 to 03 January 2016 (2015-W53),Situation report,0.0,0.0
+220,Guinea,28 July to 03 August 2014 (2014-W31),Patient database,26.0,28.0
+221,Guinea,28 July to 03 August 2014 (2014-W31),Situation report,0.0,0.0
+222,Guinea,28 March to 03 April 2016 (2016-W13),Patient database,0.0,0.0
+223,Guinea,28 March to 03 April 2016 (2016-W13),Situation report,4.0,0.0
+224,Guinea,28 September to 04 October 2015 (2015-W40),Patient database,0.0,0.0
+225,Guinea,28 September to 04 October 2015 (2015-W40),Situation report,0.0,0.0
+226,Guinea,29 December 2014 to 04 January 2015 (2015-W01),Patient database,138.0,18.0
+227,Guinea,29 December 2014 to 04 January 2015 (2015-W01),Situation report,148.0,14.0
+228,Guinea,29 February to 06 March 2016 (2016-W09),Patient database,0.0,0.0
+229,Guinea,29 February to 06 March 2016 (2016-W09),Situation report,0.0,0.0
+230,Guinea,29 June to 05 July 2015 (2015-W27),Patient database,36.0,0.0
+231,Guinea,29 June to 05 July 2015 (2015-W27),Situation report,36.0,0.0
+232,Guinea,29 September to 05 October 2014 (2014-W40),Patient database,192.0,14.0
+233,Guinea,29 September to 05 October 2014 (2014-W40),Situation report,190.0,8.0
+234,Guinea,30 December 2013 to 05 January 2014 (2014-W01),Patient database,0.0,4.0
+235,Guinea,30 December 2013 to 05 January 2014 (2014-W01),Situation report,0.0,0.0
+236,Guinea,30 June to 06 July 2014 (2014-W27),Patient database,4.0,4.0
+237,Guinea,30 June to 06 July 2014 (2014-W27),Situation report,0.0,0.0
+238,Guinea,30 March to 05 April 2015 (2015-W14),Patient database,42.0,4.0
+239,Guinea,30 March to 05 April 2015 (2015-W14),Situation report,42.0,0.0
+240,Guinea,30 November to 06 December 2015 (2015-W49),Patient database,0.0,0.0
+241,Guinea,30 November to 06 December 2015 (2015-W49),Situation report,0.0,0.0
+242,Guinea,31 August to 06 September 2015 (2015-W36),Patient database,2.0,0.0
+243,Guinea,31 August to 06 September 2015 (2015-W36),Situation report,2.0,0.0
+244,Guinea,31 March to 06 April 2014 (2014-W14),Patient database,42.0,10.0
+245,Guinea,31 March to 06 April 2014 (2014-W14),Situation report,0.0,0.0
+246,Liberia,01 to 07 December 2014 (2014-W49),Patient database,105.0,32.0
+247,Liberia,01 to 07 December 2014 (2014-W49),Situation report,106.0,144.0
+248,Liberia,01 to 07 February 2016 (2016-W05),Patient database,0.0,0.0
+249,Liberia,01 to 07 February 2016 (2016-W05),Situation report,0.0,0.0
+250,Liberia,01 to 07 June 2015 (2015-W23),Patient database,0.0,0.0
+251,Liberia,01 to 07 June 2015 (2015-W23),Situation report,0.0,0.0
+252,Liberia,01 to 07 September 2014 (2014-W36),Patient database,677.0,236.0
+253,Liberia,01 to 07 September 2014 (2014-W36),Situation report,248.0,0.0
+254,Liberia,02 to 08 February 2015 (2015-W06),Patient database,6.0,2.0
+255,Liberia,02 to 08 February 2015 (2015-W06),Situation report,8.0,6.0
+256,Liberia,02 to 08 June 2014 (2014-W23),Patient database,6.0,0.0
+257,Liberia,02 to 08 June 2014 (2014-W23),Situation report,3.0,0.0
+258,Liberia,02 to 08 March 2015 (2015-W10),Patient database,2.0,0.0
+259,Liberia,02 to 08 March 2015 (2015-W10),Situation report,0.0,4.0
+260,Liberia,02 to 08 May 2016 (2016-W18),Patient database,0.0,0.0
+261,Liberia,02 to 08 May 2016 (2016-W18),Situation report,0.0,0.0
+262,Liberia,02 to 08 November 2015 (2015-W45),Patient database,0.0,0.0
+263,Liberia,02 to 08 November 2015 (2015-W45),Situation report,0.0,0.0
+264,Liberia,03 to 09 August 2015 (2015-W32),Patient database,0.0,0.0
+265,Liberia,03 to 09 August 2015 (2015-W32),Situation report,0.0,0.0
+266,Liberia,03 to 09 February 2014 (2014-W06),Patient database,0.0,0.0
+267,Liberia,03 to 09 February 2014 (2014-W06),Situation report,0.0,0.0
+268,Liberia,03 to 09 March 2014 (2014-W10),Patient database,0.0,0.0
+269,Liberia,03 to 09 March 2014 (2014-W10),Situation report,0.0,0.0
+270,Liberia,04 to 10 April 2016 (2016-W14),Patient database,0.0,0.0
+271,Liberia,04 to 10 April 2016 (2016-W14),Situation report,2.0,0.0
+272,Liberia,04 to 10 August 2014 (2014-W32),Patient database,307.0,124.0
+273,Liberia,04 to 10 August 2014 (2014-W32),Situation report,79.0,0.0
+274,Liberia,04 to 10 January 2016 (2016-W01),Patient database,0.0,0.0
+275,Liberia,04 to 10 January 2016 (2016-W01),Situation report,0.0,0.0
+276,Liberia,04 to 10 May 2015 (2015-W19),Patient database,0.0,0.0
+277,Liberia,04 to 10 May 2015 (2015-W19),Situation report,0.0,0.0
+278,Liberia,05 to 11 January 2015 (2015-W02),Patient database,8.0,0.0
+279,Liberia,05 to 11 January 2015 (2015-W02),Situation report,16.0,44.0
+280,Liberia,05 to 11 May 2014 (2014-W19),Patient database,8.0,0.0
+281,Liberia,05 to 11 May 2014 (2014-W19),Situation report,4.0,0.0
+282,Liberia,05 to 11 October 2015 (2015-W41),Patient database,0.0,0.0
+283,Liberia,05 to 11 October 2015 (2015-W41),Situation report,0.0,0.0
+284,Liberia,06 to 12 April 2015 (2015-W15),Patient database,0.0,0.0
+285,Liberia,06 to 12 April 2015 (2015-W15),Situation report,0.0,0.0
+286,Liberia,06 to 12 January 2014 (2014-W02),Patient database,0.0,0.0
+287,Liberia,06 to 12 January 2014 (2014-W02),Situation report,0.0,0.0
+288,Liberia,06 to 12 July 2015 (2015-W28),Patient database,0.0,0.0
+289,Liberia,06 to 12 July 2015 (2015-W28),Situation report,6.0,2.0
+290,Liberia,06 to 12 October 2014 (2014-W41),Patient database,359.0,194.0
+291,Liberia,06 to 12 October 2014 (2014-W41),Situation report,389.0,234.0
+292,Liberia,07 to 13 April 2014 (2014-W15),Patient database,0.0,2.0
+293,Liberia,07 to 13 April 2014 (2014-W15),Situation report,0.0,0.0
+294,Liberia,07 to 13 December 2015 (2015-W50),Patient database,0.0,0.0
+295,Liberia,07 to 13 December 2015 (2015-W50),Situation report,0.0,0.0
+296,Liberia,07 to 13 July 2014 (2014-W28),Patient database,66.0,10.0
+297,Liberia,07 to 13 July 2014 (2014-W28),Situation report,27.0,0.0
+298,Liberia,07 to 13 March 2016 (2016-W10),Patient database,0.0,0.0
+299,Liberia,07 to 13 March 2016 (2016-W10),Situation report,0.0,0.0
+300,Liberia,07 to 13 September 2015 (2015-W37),Patient database,0.0,0.0
+301,Liberia,07 to 13 September 2015 (2015-W37),Situation report,0.0,0.0
+302,Liberia,08 to 14 December 2014 (2014-W50),Patient database,68.0,8.0
+303,Liberia,08 to 14 December 2014 (2014-W50),Situation report,74.0,72.0
+304,Liberia,08 to 14 February 2016 (2016-W06),Patient database,0.0,0.0
+305,Liberia,08 to 14 February 2016 (2016-W06),Situation report,0.0,0.0
+306,Liberia,08 to 14 June 2015 (2015-W24),Patient database,0.0,0.0
+307,Liberia,08 to 14 June 2015 (2015-W24),Situation report,0.0,0.0
+308,Liberia,08 to 14 September 2014 (2014-W37),Patient database,590.0,368.0
+309,Liberia,08 to 14 September 2014 (2014-W37),Situation report,321.0,0.0
+310,Liberia,09 to 15 February 2015 (2015-W07),Patient database,16.0,6.0
+311,Liberia,09 to 15 February 2015 (2015-W07),Situation report,10.0,2.0
+312,Liberia,09 to 15 June 2014 (2014-W24),Patient database,34.0,2.0
+313,Liberia,09 to 15 June 2014 (2014-W24),Situation report,15.0,0.0
+314,Liberia,09 to 15 March 2015 (2015-W11),Patient database,0.0,0.0
+315,Liberia,09 to 15 March 2015 (2015-W11),Situation report,0.0,0.0
+316,Liberia,09 to 15 November 2015 (2015-W46),Patient database,0.0,0.0
+317,Liberia,09 to 15 November 2015 (2015-W46),Situation report,0.0,0.0
+318,Liberia,10 to 16 August 2015 (2015-W33),Patient database,0.0,0.0
+319,Liberia,10 to 16 August 2015 (2015-W33),Situation report,0.0,0.0
+320,Liberia,10 to 16 February 2014 (2014-W07),Patient database,0.0,0.0
+321,Liberia,10 to 16 February 2014 (2014-W07),Situation report,0.0,0.0
+322,Liberia,10 to 16 March 2014 (2014-W11),Patient database,0.0,0.0
+323,Liberia,10 to 16 March 2014 (2014-W11),Situation report,0.0,0.0
+324,Liberia,10 to 16 November 2014 (2014-W46),Patient database,153.0,66.0
+325,Liberia,10 to 16 November 2014 (2014-W46),Situation report,87.0,180.0
+326,Liberia,11 to 17 April 2016 (2016-W15),Patient database,0.0,0.0
+327,Liberia,11 to 17 April 2016 (2016-W15),Situation report,0.0,0.0
+328,Liberia,11 to 17 August 2014 (2014-W33),Patient database,400.0,218.0
+329,Liberia,11 to 17 August 2014 (2014-W33),Situation report,140.0,0.0
+330,Liberia,11 to 17 January 2016 (2016-W02),Patient database,0.0,0.0
+331,Liberia,11 to 17 January 2016 (2016-W02),Situation report,0.0,0.0
+332,Liberia,11 to 17 May 2015 (2015-W20),Patient database,0.0,0.0
+333,Liberia,11 to 17 May 2015 (2015-W20),Situation report,0.0,0.0
+334,Liberia,12 to 18 January 2015 (2015-W03),Patient database,24.0,4.0
+335,Liberia,12 to 18 January 2015 (2015-W03),Situation report,16.0,30.0
+336,Liberia,12 to 18 May 2014 (2014-W20),Patient database,0.0,0.0
+337,Liberia,12 to 18 May 2014 (2014-W20),Situation report,0.0,0.0
+338,Liberia,12 to 18 October 2015 (2015-W42),Patient database,0.0,0.0
+339,Liberia,12 to 18 October 2015 (2015-W42),Situation report,0.0,0.0
+340,Liberia,13 to 19 April 2015 (2015-W16),Patient database,0.0,0.0
+341,Liberia,13 to 19 April 2015 (2015-W16),Situation report,0.0,0.0
+342,Liberia,13 to 19 January 2014 (2014-W03),Patient database,0.0,0.0
+343,Liberia,13 to 19 January 2014 (2014-W03),Situation report,0.0,0.0
+344,Liberia,13 to 19 July 2015 (2015-W29),Patient database,0.0,0.0
+345,Liberia,13 to 19 July 2015 (2015-W29),Situation report,0.0,2.0
+346,Liberia,13 to 19 October 2014 (2014-W42),Patient database,246.0,148.0
+347,Liberia,13 to 19 October 2014 (2014-W42),Situation report,316.0,422.0
+348,Liberia,14 to 20 April 2014 (2014-W16),Patient database,0.0,2.0
+349,Liberia,14 to 20 April 2014 (2014-W16),Situation report,0.0,0.0
+350,Liberia,14 to 20 December 2015 (2015-W51),Patient database,0.0,0.0
+351,Liberia,14 to 20 December 2015 (2015-W51),Situation report,0.0,0.0
+352,Liberia,14 to 20 July 2014 (2014-W29),Patient database,54.0,18.0
+353,Liberia,14 to 20 July 2014 (2014-W29),Situation report,23.0,0.0
+354,Liberia,14 to 20 March 2016 (2016-W11),Patient database,0.0,0.0
+355,Liberia,14 to 20 March 2016 (2016-W11),Situation report,0.0,0.0
+356,Liberia,14 to 20 September 2015 (2015-W38),Patient database,0.0,0.0
+357,Liberia,14 to 20 September 2015 (2015-W38),Situation report,0.0,0.0
+358,Liberia,15 to 21 December 2014 (2014-W51),Patient database,32.0,4.0
+359,Liberia,15 to 21 December 2014 (2014-W51),Situation report,46.0,38.0
+360,Liberia,15 to 21 February 2016 (2016-W07),Patient database,0.0,0.0
+361,Liberia,15 to 21 February 2016 (2016-W07),Situation report,0.0,0.0
+362,Liberia,15 to 21 June 2015 (2015-W25),Patient database,0.0,0.0
+363,Liberia,15 to 21 June 2015 (2015-W25),Situation report,0.0,0.0
+364,Liberia,15 to 21 September 2014 (2014-W38),Patient database,590.0,403.0
+365,Liberia,15 to 21 September 2014 (2014-W38),Situation report,352.0,482.0
+366,Liberia,16 to 22 February 2015 (2015-W08),Patient database,2.0,6.0
+367,Liberia,16 to 22 February 2015 (2015-W08),Situation report,2.0,22.0
+368,Liberia,16 to 22 June 2014 (2014-W25),Patient database,55.0,2.0
+369,Liberia,16 to 22 June 2014 (2014-W25),Situation report,26.0,0.0
+370,Liberia,16 to 22 March 2015 (2015-W12),Patient database,2.0,2.0
+371,Liberia,16 to 22 March 2015 (2015-W12),Situation report,2.0,0.0
+372,Liberia,16 to 22 November 2015 (2015-W47),Patient database,0.0,0.0
+373,Liberia,16 to 22 November 2015 (2015-W47),Situation report,6.0,0.0
+374,Liberia,17 to 23 August 2015 (2015-W34),Patient database,0.0,0.0
+375,Liberia,17 to 23 August 2015 (2015-W34),Situation report,0.0,0.0
+376,Liberia,17 to 23 February 2014 (2014-W08),Patient database,0.0,0.0
+377,Liberia,17 to 23 February 2014 (2014-W08),Situation report,0.0,0.0
+378,Liberia,17 to 23 March 2014 (2014-W12),Patient database,2.0,0.0
+379,Liberia,17 to 23 March 2014 (2014-W12),Situation report,1.0,0.0
+380,Liberia,17 to 23 November 2014 (2014-W47),Patient database,107.0,68.0
+381,Liberia,17 to 23 November 2014 (2014-W47),Situation report,148.0,120.0
+382,Liberia,18 to 24 April 2016 (2016-W16),Patient database,0.0,0.0
+383,Liberia,18 to 24 April 2016 (2016-W16),Situation report,0.0,0.0
+384,Liberia,18 to 24 August 2014 (2014-W34),Patient database,607.0,262.0
+385,Liberia,18 to 24 August 2014 (2014-W34),Situation report,265.0,0.0
+386,Liberia,18 to 24 January 2016 (2016-W03),Patient database,0.0,0.0
+387,Liberia,18 to 24 January 2016 (2016-W03),Situation report,0.0,0.0
+388,Liberia,18 to 24 May 2015 (2015-W21),Patient database,0.0,0.0
+389,Liberia,18 to 24 May 2015 (2015-W21),Situation report,0.0,0.0
+390,Liberia,19 to 25 January 2015 (2015-W04),Patient database,12.0,2.0
+391,Liberia,19 to 25 January 2015 (2015-W04),Situation report,8.0,20.0
+392,Liberia,19 to 25 May 2014 (2014-W21),Patient database,2.0,0.0
+393,Liberia,19 to 25 May 2014 (2014-W21),Situation report,0.0,0.0
+394,Liberia,19 to 25 October 2015 (2015-W43),Patient database,0.0,0.0
+395,Liberia,19 to 25 October 2015 (2015-W43),Situation report,0.0,0.0
+396,Liberia,20 to 26 April 2015 (2015-W17),Patient database,0.0,0.0
+397,Liberia,20 to 26 April 2015 (2015-W17),Situation report,0.0,0.0
+398,Liberia,20 to 26 January 2014 (2014-W04),Patient database,0.0,0.0
+399,Liberia,20 to 26 January 2014 (2014-W04),Situation report,0.0,0.0
+400,Liberia,20 to 26 July 2015 (2015-W30),Patient database,0.0,0.0
+401,Liberia,20 to 26 July 2015 (2015-W30),Situation report,0.0,0.0
+402,Liberia,20 to 26 October 2014 (2014-W43),Patient database,142.0,100.0
+403,Liberia,20 to 26 October 2014 (2014-W43),Situation report,258.0,156.0
+404,Liberia,21 to 27 April 2014 (2014-W17),Patient database,0.0,0.0
+405,Liberia,21 to 27 April 2014 (2014-W17),Situation report,0.0,0.0
+406,Liberia,21 to 27 December 2015 (2015-W52),Patient database,0.0,0.0
+407,Liberia,21 to 27 December 2015 (2015-W52),Situation report,0.0,0.0
+408,Liberia,21 to 27 July 2014 (2014-W30),Patient database,165.0,10.0
+409,Liberia,21 to 27 July 2014 (2014-W30),Situation report,66.0,0.0
+410,Liberia,21 to 27 March 2016 (2016-W12),Patient database,0.0,0.0
+411,Liberia,21 to 27 March 2016 (2016-W12),Situation report,0.0,0.0
+412,Liberia,21 to 27 September 2015 (2015-W39),Patient database,0.0,0.0
+413,Liberia,21 to 27 September 2015 (2015-W39),Situation report,0.0,0.0
+414,Liberia,22 to 28 December 2014 (2014-W52),Patient database,57.0,2.0
+415,Liberia,22 to 28 December 2014 (2014-W52),Situation report,62.0,38.0
+416,Liberia,22 to 28 February 2016 (2016-W08),Patient database,0.0,0.0
+417,Liberia,22 to 28 February 2016 (2016-W08),Situation report,0.0,0.0
+418,Liberia,22 to 28 June 2015 (2015-W26),Patient database,0.0,0.0
+419,Liberia,22 to 28 June 2015 (2015-W26),Situation report,0.0,0.0
+420,Liberia,22 to 28 September 2014 (2014-W39),Patient database,595.0,263.0
+421,Liberia,22 to 28 September 2014 (2014-W39),Situation report,442.0,386.0
+422,Liberia,23 February to 01 March 2015 (2015-W09),Patient database,0.0,2.0
+423,Liberia,23 February to 01 March 2015 (2015-W09),Situation report,0.0,4.0
+424,Liberia,23 to 29 June 2014 (2014-W26),Patient database,55.0,0.0
+425,Liberia,23 to 29 June 2014 (2014-W26),Situation report,25.0,0.0
+426,Liberia,23 to 29 March 2015 (2015-W13),Patient database,0.0,2.0
+427,Liberia,23 to 29 March 2015 (2015-W13),Situation report,0.0,0.0
+428,Liberia,23 to 29 November 2015 (2015-W48),Patient database,0.0,0.0
+429,Liberia,23 to 29 November 2015 (2015-W48),Situation report,0.0,0.0
+430,Liberia,24 February to 02 March 2014 (2014-W09),Patient database,0.0,0.0
+431,Liberia,24 February to 02 March 2014 (2014-W09),Situation report,0.0,0.0
+432,Liberia,24 to 30 August 2015 (2015-W35),Patient database,0.0,0.0
+433,Liberia,24 to 30 August 2015 (2015-W35),Situation report,0.0,0.0
+434,Liberia,24 to 30 March 2014 (2014-W13),Patient database,2.0,0.0
+435,Liberia,24 to 30 March 2014 (2014-W13),Situation report,0.0,0.0
+436,Liberia,24 to 30 November 2014 (2014-W48),Patient database,97.0,64.0
+437,Liberia,24 to 30 November 2014 (2014-W48),Situation report,127.0,122.0
+438,Liberia,25 April to 01 May 2016 (2016-W17),Patient database,0.0,0.0
+439,Liberia,25 April to 01 May 2016 (2016-W17),Situation report,0.0,0.0
+440,Liberia,25 to 31 August 2014 (2014-W35),Patient database,572.0,248.0
+441,Liberia,25 to 31 August 2014 (2014-W35),Situation report,255.0,0.0
+442,Liberia,25 to 31 January 2016 (2016-W04),Patient database,0.0,0.0
+443,Liberia,25 to 31 January 2016 (2016-W04),Situation report,0.0,0.0
+444,Liberia,25 to 31 May 2015 (2015-W22),Patient database,0.0,0.0
+445,Liberia,25 to 31 May 2015 (2015-W22),Situation report,0.0,0.0
+446,Liberia,26 January to 01 February 2015 (2015-W05),Patient database,14.0,10.0
+447,Liberia,26 January to 01 February 2015 (2015-W05),Situation report,10.0,12.0
+448,Liberia,26 May to 01 June 2014 (2014-W22),Patient database,0.0,0.0
+449,Liberia,26 May to 01 June 2014 (2014-W22),Situation report,0.0,0.0
+450,Liberia,26 October to 01 November 2015 (2015-W44),Patient database,0.0,0.0
+451,Liberia,26 October to 01 November 2015 (2015-W44),Situation report,0.0,0.0
+452,Liberia,27 April to 03 May 2015 (2015-W18),Patient database,0.0,0.0
+453,Liberia,27 April to 03 May 2015 (2015-W18),Situation report,0.0,0.0
+454,Liberia,27 January to 02 February 2014 (2014-W05),Patient database,0.0,0.0
+455,Liberia,27 January to 02 February 2014 (2014-W05),Situation report,0.0,0.0
+456,Liberia,27 July to 02 August 2015 (2015-W31),Patient database,0.0,0.0
+457,Liberia,27 July to 02 August 2015 (2015-W31),Situation report,0.0,0.0
+458,Liberia,27 October to 02 November 2014 (2014-W44),Patient database,176.0,74.0
+459,Liberia,27 October to 02 November 2014 (2014-W44),Situation report,132.0,212.0
+460,Liberia,27 October to 09 November 2014 (2014-W45),Patient database,193.0,76.0
+461,Liberia,27 October to 09 November 2014 (2014-W45),Situation report,129.0,206.0
+462,Liberia,28 April to 04 May 2014 (2014-W18),Patient database,2.0,0.0
+463,Liberia,28 April to 04 May 2014 (2014-W18),Situation report,1.0,0.0
+464,Liberia,28 December 2015 to 03 January 2016 (2015-W53),Patient database,0.0,0.0
+465,Liberia,28 December 2015 to 03 January 2016 (2015-W53),Situation report,0.0,0.0
+466,Liberia,28 July to 03 August 2014 (2014-W31),Patient database,165.0,50.0
+467,Liberia,28 July to 03 August 2014 (2014-W31),Situation report,59.0,0.0
+468,Liberia,28 March to 03 April 2016 (2016-W13),Patient database,0.0,0.0
+469,Liberia,28 March to 03 April 2016 (2016-W13),Situation report,4.0,0.0
+470,Liberia,28 September to 04 October 2015 (2015-W40),Patient database,0.0,0.0
+471,Liberia,28 September to 04 October 2015 (2015-W40),Situation report,0.0,0.0
+472,Liberia,29 December 2014 to 04 January 2015 (2015-W01),Patient database,16.0,2.0
+473,Liberia,29 December 2014 to 04 January 2015 (2015-W01),Situation report,18.0,82.0
+474,Liberia,29 February to 06 March 2016 (2016-W09),Patient database,0.0,0.0
+475,Liberia,29 February to 06 March 2016 (2016-W09),Situation report,0.0,0.0
+476,Liberia,29 June to 05 July 2015 (2015-W27),Patient database,0.0,0.0
+477,Liberia,29 June to 05 July 2015 (2015-W27),Situation report,6.0,2.0
+478,Liberia,29 September to 05 October 2014 (2014-W40),Patient database,400.0,206.0
+479,Liberia,29 September to 05 October 2014 (2014-W40),Situation report,358.0,298.0
+480,Liberia,30 December 2013 to 05 January 2014 (2014-W01),Patient database,0.0,0.0
+481,Liberia,30 December 2013 to 05 January 2014 (2014-W01),Situation report,0.0,0.0
+482,Liberia,30 June to 06 July 2014 (2014-W27),Patient database,44.0,8.0
+483,Liberia,30 June to 06 July 2014 (2014-W27),Situation report,20.0,0.0
+484,Liberia,30 March to 05 April 2015 (2015-W14),Patient database,0.0,0.0
+485,Liberia,30 March to 05 April 2015 (2015-W14),Situation report,0.0,0.0
+486,Liberia,30 November to 06 December 2015 (2015-W49),Patient database,0.0,0.0
+487,Liberia,30 November to 06 December 2015 (2015-W49),Situation report,0.0,0.0
+488,Liberia,31 August to 06 September 2015 (2015-W36),Patient database,0.0,0.0
+489,Liberia,31 August to 06 September 2015 (2015-W36),Situation report,0.0,0.0
+490,Liberia,31 March to 06 April 2014 (2014-W14),Patient database,4.0,2.0
+491,Liberia,31 March to 06 April 2014 (2014-W14),Situation report,2.0,0.0
+492,Sierra Leone,01 to 07 December 2014 (2014-W49),Patient database,763.0,167.0
+493,Sierra Leone,01 to 07 December 2014 (2014-W49),Situation report,794.0,0.0
+494,Sierra Leone,01 to 07 February 2016 (2016-W05),Patient database,0.0,0.0
+495,Sierra Leone,01 to 07 February 2016 (2016-W05),Situation report,0.0,0.0
+496,Sierra Leone,01 to 07 June 2015 (2015-W23),Patient database,30.0,20.0
+497,Sierra Leone,01 to 07 June 2015 (2015-W23),Situation report,30.0,0.0
+498,Sierra Leone,01 to 07 September 2014 (2014-W36),Patient database,431.0,30.0
+499,Sierra Leone,01 to 07 September 2014 (2014-W36),Situation report,0.0,0.0
+500,Sierra Leone,02 to 08 February 2015 (2015-W06),Patient database,178.0,48.0
+501,Sierra Leone,02 to 08 February 2015 (2015-W06),Situation report,152.0,0.0
+502,Sierra Leone,02 to 08 June 2014 (2014-W23),Patient database,64.0,8.0
+503,Sierra Leone,02 to 08 June 2014 (2014-W23),Situation report,0.0,0.0
+504,Sierra Leone,02 to 08 March 2015 (2015-W10),Patient database,182.0,49.0
+505,Sierra Leone,02 to 08 March 2015 (2015-W10),Situation report,116.0,0.0
+506,Sierra Leone,02 to 08 May 2016 (2016-W18),Patient database,0.0,0.0
+507,Sierra Leone,02 to 08 May 2016 (2016-W18),Situation report,0.0,0.0
+508,Sierra Leone,02 to 08 November 2015 (2015-W45),Patient database,0.0,0.0
+509,Sierra Leone,02 to 08 November 2015 (2015-W45),Situation report,0.0,0.0
+510,Sierra Leone,03 to 09 August 2015 (2015-W32),Patient database,2.0,2.0
+511,Sierra Leone,03 to 09 August 2015 (2015-W32),Situation report,2.0,0.0
+512,Sierra Leone,03 to 09 February 2014 (2014-W06),Patient database,0.0,0.0
+513,Sierra Leone,03 to 09 February 2014 (2014-W06),Situation report,0.0,0.0
+514,Sierra Leone,03 to 09 March 2014 (2014-W10),Patient database,0.0,0.0
+515,Sierra Leone,03 to 09 March 2014 (2014-W10),Situation report,0.0,0.0
+516,Sierra Leone,04 to 10 April 2016 (2016-W14),Patient database,0.0,0.0
+517,Sierra Leone,04 to 10 April 2016 (2016-W14),Situation report,0.0,0.0
+518,Sierra Leone,04 to 10 August 2014 (2014-W32),Patient database,270.0,20.0
+519,Sierra Leone,04 to 10 August 2014 (2014-W32),Situation report,0.0,0.0
+520,Sierra Leone,04 to 10 January 2016 (2016-W01),Patient database,0.0,0.0
+521,Sierra Leone,04 to 10 January 2016 (2016-W01),Situation report,0.0,0.0
+522,Sierra Leone,04 to 10 May 2015 (2015-W19),Patient database,6.0,11.0
+523,Sierra Leone,04 to 10 May 2015 (2015-W19),Situation report,4.0,0.0
+524,Sierra Leone,05 to 11 January 2015 (2015-W02),Patient database,572.0,98.0
+525,Sierra Leone,05 to 11 January 2015 (2015-W02),Situation report,368.0,0.0
+526,Sierra Leone,05 to 11 May 2014 (2014-W19),Patient database,0.0,0.0
+527,Sierra Leone,05 to 11 May 2014 (2014-W19),Situation report,0.0,0.0
+528,Sierra Leone,05 to 11 October 2015 (2015-W41),Patient database,0.0,0.0
+529,Sierra Leone,05 to 11 October 2015 (2015-W41),Situation report,0.0,0.0
+530,Sierra Leone,06 to 12 April 2015 (2015-W15),Patient database,30.0,28.0
+531,Sierra Leone,06 to 12 April 2015 (2015-W15),Situation report,18.0,0.0
+532,Sierra Leone,06 to 12 January 2014 (2014-W02),Patient database,0.0,0.0
+533,Sierra Leone,06 to 12 January 2014 (2014-W02),Situation report,0.0,0.0
+534,Sierra Leone,06 to 12 July 2015 (2015-W28),Patient database,13.0,4.0
+535,Sierra Leone,06 to 12 July 2015 (2015-W28),Situation report,28.0,0.0
+536,Sierra Leone,06 to 12 October 2014 (2014-W41),Patient database,736.0,131.0
+537,Sierra Leone,06 to 12 October 2014 (2014-W41),Situation report,742.0,0.0
+538,Sierra Leone,07 to 13 April 2014 (2014-W15),Patient database,0.0,0.0
+539,Sierra Leone,07 to 13 April 2014 (2014-W15),Situation report,0.0,0.0
+540,Sierra Leone,07 to 13 December 2015 (2015-W50),Patient database,0.0,0.0
+541,Sierra Leone,07 to 13 December 2015 (2015-W50),Situation report,0.0,0.0
+542,Sierra Leone,07 to 13 July 2014 (2014-W28),Patient database,212.0,12.0
+543,Sierra Leone,07 to 13 July 2014 (2014-W28),Situation report,0.0,0.0
+544,Sierra Leone,07 to 13 March 2016 (2016-W10),Patient database,0.0,0.0
+545,Sierra Leone,07 to 13 March 2016 (2016-W10),Situation report,0.0,0.0
+546,Sierra Leone,07 to 13 September 2015 (2015-W37),Patient database,0.0,0.0
+547,Sierra Leone,07 to 13 September 2015 (2015-W37),Situation report,10.0,0.0
+548,Sierra Leone,08 to 14 December 2014 (2014-W50),Patient database,785.0,145.0
+549,Sierra Leone,08 to 14 December 2014 (2014-W50),Situation report,654.0,0.0
+550,Sierra Leone,08 to 14 February 2016 (2016-W06),Patient database,0.0,0.0
+551,Sierra Leone,08 to 14 February 2016 (2016-W06),Situation report,0.0,0.0
+552,Sierra Leone,08 to 14 June 2015 (2015-W24),Patient database,28.0,36.0
+553,Sierra Leone,08 to 14 June 2015 (2015-W24),Situation report,28.0,0.0
+554,Sierra Leone,08 to 14 September 2014 (2014-W37),Patient database,465.0,26.0
+555,Sierra Leone,08 to 14 September 2014 (2014-W37),Situation report,0.0,0.0
+556,Sierra Leone,09 to 15 February 2015 (2015-W07),Patient database,201.0,46.0
+557,Sierra Leone,09 to 15 February 2015 (2015-W07),Situation report,192.0,0.0
+558,Sierra Leone,09 to 15 June 2014 (2014-W24),Patient database,130.0,17.0
+559,Sierra Leone,09 to 15 June 2014 (2014-W24),Situation report,0.0,0.0
+560,Sierra Leone,09 to 15 March 2015 (2015-W11),Patient database,69.0,52.0
+561,Sierra Leone,09 to 15 March 2015 (2015-W11),Situation report,110.0,0.0
+562,Sierra Leone,09 to 15 November 2015 (2015-W46),Patient database,0.0,0.0
+563,Sierra Leone,09 to 15 November 2015 (2015-W46),Situation report,0.0,0.0
+564,Sierra Leone,10 to 16 August 2015 (2015-W33),Patient database,0.0,16.0
+565,Sierra Leone,10 to 16 August 2015 (2015-W33),Situation report,0.0,0.0
+566,Sierra Leone,10 to 16 February 2014 (2014-W07),Patient database,0.0,0.0
+567,Sierra Leone,10 to 16 February 2014 (2014-W07),Situation report,0.0,0.0
+568,Sierra Leone,10 to 16 March 2014 (2014-W11),Patient database,0.0,0.0
+569,Sierra Leone,10 to 16 March 2014 (2014-W11),Situation report,0.0,0.0
+570,Sierra Leone,10 to 16 November 2014 (2014-W46),Patient database,914.0,180.0
+571,Sierra Leone,10 to 16 November 2014 (2014-W46),Situation report,1066.0,0.0
+572,Sierra Leone,11 to 17 April 2016 (2016-W15),Patient database,0.0,0.0
+573,Sierra Leone,11 to 17 April 2016 (2016-W15),Situation report,0.0,0.0
+574,Sierra Leone,11 to 17 August 2014 (2014-W33),Patient database,253.0,14.0
+575,Sierra Leone,11 to 17 August 2014 (2014-W33),Situation report,0.0,0.0
+576,Sierra Leone,11 to 17 January 2016 (2016-W02),Patient database,0.0,0.0
+577,Sierra Leone,11 to 17 January 2016 (2016-W02),Situation report,2.0,0.0
+578,Sierra Leone,11 to 17 May 2015 (2015-W20),Patient database,16.0,30.0
+579,Sierra Leone,11 to 17 May 2015 (2015-W20),Situation report,16.0,0.0
+580,Sierra Leone,12 to 18 January 2015 (2015-W03),Patient database,242.0,102.0
+581,Sierra Leone,12 to 18 January 2015 (2015-W03),Situation report,234.0,0.0
+582,Sierra Leone,12 to 18 May 2014 (2014-W20),Patient database,0.0,0.0
+583,Sierra Leone,12 to 18 May 2014 (2014-W20),Situation report,0.0,0.0
+584,Sierra Leone,12 to 18 October 2015 (2015-W42),Patient database,0.0,0.0
+585,Sierra Leone,12 to 18 October 2015 (2015-W42),Situation report,0.0,0.0
+586,Sierra Leone,13 to 19 April 2015 (2015-W16),Patient database,34.0,9.0
+587,Sierra Leone,13 to 19 April 2015 (2015-W16),Situation report,24.0,0.0
+588,Sierra Leone,13 to 19 January 2014 (2014-W03),Patient database,0.0,0.0
+589,Sierra Leone,13 to 19 January 2014 (2014-W03),Situation report,0.0,0.0
+590,Sierra Leone,13 to 19 July 2015 (2015-W29),Patient database,14.0,4.0
+591,Sierra Leone,13 to 19 July 2015 (2015-W29),Situation report,6.0,0.0
+592,Sierra Leone,13 to 19 October 2014 (2014-W42),Patient database,912.0,179.0
+593,Sierra Leone,13 to 19 October 2014 (2014-W42),Situation report,772.0,0.0
+594,Sierra Leone,14 to 20 April 2014 (2014-W16),Patient database,0.0,0.0
+595,Sierra Leone,14 to 20 April 2014 (2014-W16),Situation report,0.0,0.0
+596,Sierra Leone,14 to 20 December 2015 (2015-W51),Patient database,0.0,0.0
+597,Sierra Leone,14 to 20 December 2015 (2015-W51),Situation report,0.0,0.0
+598,Sierra Leone,14 to 20 July 2014 (2014-W29),Patient database,152.0,2.0
+599,Sierra Leone,14 to 20 July 2014 (2014-W29),Situation report,0.0,0.0
+600,Sierra Leone,14 to 20 March 2016 (2016-W11),Patient database,0.0,0.0
+601,Sierra Leone,14 to 20 March 2016 (2016-W11),Situation report,0.0,0.0
+602,Sierra Leone,14 to 20 September 2015 (2015-W38),Patient database,0.0,0.0
+603,Sierra Leone,14 to 20 September 2015 (2015-W38),Situation report,0.0,0.0
+604,Sierra Leone,15 to 21 December 2014 (2014-W51),Patient database,714.0,130.0
+605,Sierra Leone,15 to 21 December 2014 (2014-W51),Situation report,630.0,0.0
+606,Sierra Leone,15 to 21 February 2016 (2016-W07),Patient database,0.0,0.0
+607,Sierra Leone,15 to 21 February 2016 (2016-W07),Situation report,0.0,0.0
+608,Sierra Leone,15 to 21 June 2015 (2015-W25),Patient database,16.0,144.0
+609,Sierra Leone,15 to 21 June 2015 (2015-W25),Situation report,16.0,0.0
+610,Sierra Leone,15 to 21 September 2014 (2014-W38),Patient database,776.0,68.0
+611,Sierra Leone,15 to 21 September 2014 (2014-W38),Situation report,508.0,0.0
+612,Sierra Leone,16 to 22 February 2015 (2015-W08),Patient database,163.0,43.0
+613,Sierra Leone,16 to 22 February 2015 (2015-W08),Situation report,126.0,0.0
+614,Sierra Leone,16 to 22 June 2014 (2014-W25),Patient database,117.0,7.0
+615,Sierra Leone,16 to 22 June 2014 (2014-W25),Situation report,0.0,0.0
+616,Sierra Leone,16 to 22 March 2015 (2015-W12),Patient database,72.0,25.0
+617,Sierra Leone,16 to 22 March 2015 (2015-W12),Situation report,66.0,0.0
+618,Sierra Leone,16 to 22 November 2015 (2015-W47),Patient database,0.0,0.0
+619,Sierra Leone,16 to 22 November 2015 (2015-W47),Situation report,0.0,0.0
+620,Sierra Leone,17 to 23 August 2015 (2015-W34),Patient database,4.0,0.0
+621,Sierra Leone,17 to 23 August 2015 (2015-W34),Situation report,0.0,0.0
+622,Sierra Leone,17 to 23 February 2014 (2014-W08),Patient database,0.0,0.0
+623,Sierra Leone,17 to 23 February 2014 (2014-W08),Situation report,0.0,0.0
+624,Sierra Leone,17 to 23 March 2014 (2014-W12),Patient database,0.0,0.0
+625,Sierra Leone,17 to 23 March 2014 (2014-W12),Situation report,0.0,0.0
+626,Sierra Leone,17 to 23 November 2014 (2014-W47),Patient database,868.0,213.0
+627,Sierra Leone,17 to 23 November 2014 (2014-W47),Situation report,770.0,0.0
+628,Sierra Leone,18 to 24 April 2016 (2016-W16),Patient database,0.0,0.0
+629,Sierra Leone,18 to 24 April 2016 (2016-W16),Situation report,0.0,0.0
+630,Sierra Leone,18 to 24 August 2014 (2014-W34),Patient database,346.0,22.0
+631,Sierra Leone,18 to 24 August 2014 (2014-W34),Situation report,0.0,0.0
+632,Sierra Leone,18 to 24 January 2016 (2016-W03),Patient database,0.0,0.0
+633,Sierra Leone,18 to 24 January 2016 (2016-W03),Situation report,2.0,0.0
+634,Sierra Leone,18 to 24 May 2015 (2015-W21),Patient database,14.0,55.0
+635,Sierra Leone,18 to 24 May 2015 (2015-W21),Situation report,6.0,0.0
+636,Sierra Leone,19 to 25 January 2015 (2015-W04),Patient database,212.0,62.0
+637,Sierra Leone,19 to 25 January 2015 (2015-W04),Situation report,130.0,0.0
+638,Sierra Leone,19 to 25 May 2014 (2014-W21),Patient database,6.0,0.0
+639,Sierra Leone,19 to 25 May 2014 (2014-W21),Situation report,0.0,0.0
+640,Sierra Leone,19 to 25 October 2015 (2015-W43),Patient database,0.0,0.0
+641,Sierra Leone,19 to 25 October 2015 (2015-W43),Situation report,0.0,0.0
+642,Sierra Leone,20 to 26 April 2015 (2015-W17),Patient database,12.0,16.0
+643,Sierra Leone,20 to 26 April 2015 (2015-W17),Situation report,22.0,0.0
+644,Sierra Leone,20 to 26 January 2014 (2014-W04),Patient database,0.0,0.0
+645,Sierra Leone,20 to 26 January 2014 (2014-W04),Situation report,0.0,0.0
+646,Sierra Leone,20 to 26 July 2015 (2015-W30),Patient database,6.0,4.0
+647,Sierra Leone,20 to 26 July 2015 (2015-W30),Situation report,6.0,0.0
+648,Sierra Leone,20 to 26 October 2014 (2014-W43),Patient database,919.0,210.0
+649,Sierra Leone,20 to 26 October 2014 (2014-W43),Situation report,798.0,18.0
+650,Sierra Leone,21 to 27 April 2014 (2014-W17),Patient database,0.0,0.0
+651,Sierra Leone,21 to 27 April 2014 (2014-W17),Situation report,0.0,0.0
+652,Sierra Leone,21 to 27 December 2015 (2015-W52),Patient database,0.0,0.0
+653,Sierra Leone,21 to 27 December 2015 (2015-W52),Situation report,0.0,0.0
+654,Sierra Leone,21 to 27 July 2014 (2014-W30),Patient database,196.0,14.0
+655,Sierra Leone,21 to 27 July 2014 (2014-W30),Situation report,0.0,0.0
+656,Sierra Leone,21 to 27 March 2016 (2016-W12),Patient database,0.0,0.0
+657,Sierra Leone,21 to 27 March 2016 (2016-W12),Situation report,0.0,0.0
+658,Sierra Leone,21 to 27 September 2015 (2015-W39),Patient database,0.0,0.0
+659,Sierra Leone,21 to 27 September 2015 (2015-W39),Situation report,0.0,0.0
+660,Sierra Leone,22 to 28 December 2014 (2014-W52),Patient database,854.0,212.0
+661,Sierra Leone,22 to 28 December 2014 (2014-W52),Situation report,674.0,0.0
+662,Sierra Leone,22 to 28 February 2016 (2016-W08),Patient database,0.0,0.0
+663,Sierra Leone,22 to 28 February 2016 (2016-W08),Situation report,0.0,0.0
+664,Sierra Leone,22 to 28 June 2015 (2015-W26),Patient database,18.0,118.0
+665,Sierra Leone,22 to 28 June 2015 (2015-W26),Situation report,16.0,0.0
+666,Sierra Leone,22 to 28 September 2014 (2014-W39),Patient database,787.0,36.0
+667,Sierra Leone,22 to 28 September 2014 (2014-W39),Situation report,700.0,0.0
+668,Sierra Leone,23 February to 01 March 2015 (2015-W09),Patient database,134.0,33.0
+669,Sierra Leone,23 February to 01 March 2015 (2015-W09),Situation report,162.0,0.0
+670,Sierra Leone,23 to 29 June 2014 (2014-W26),Patient database,98.0,10.0
+671,Sierra Leone,23 to 29 June 2014 (2014-W26),Situation report,0.0,0.0
+672,Sierra Leone,23 to 29 March 2015 (2015-W13),Patient database,43.0,46.0
+673,Sierra Leone,23 to 29 March 2015 (2015-W13),Situation report,50.0,0.0
+674,Sierra Leone,23 to 29 November 2015 (2015-W48),Patient database,0.0,0.0
+675,Sierra Leone,23 to 29 November 2015 (2015-W48),Situation report,0.0,0.0
+676,Sierra Leone,24 February to 02 March 2014 (2014-W09),Patient database,0.0,0.0
+677,Sierra Leone,24 February to 02 March 2014 (2014-W09),Situation report,0.0,0.0
+678,Sierra Leone,24 to 30 August 2015 (2015-W35),Patient database,0.0,0.0
+679,Sierra Leone,24 to 30 August 2015 (2015-W35),Situation report,2.0,0.0
+680,Sierra Leone,24 to 30 March 2014 (2014-W13),Patient database,0.0,0.0
+681,Sierra Leone,24 to 30 March 2014 (2014-W13),Situation report,0.0,0.0
+682,Sierra Leone,24 to 30 November 2014 (2014-W48),Patient database,1152.0,153.0
+683,Sierra Leone,24 to 30 November 2014 (2014-W48),Situation report,1074.0,0.0
+684,Sierra Leone,25 April to 01 May 2016 (2016-W17),Patient database,0.0,0.0
+685,Sierra Leone,25 April to 01 May 2016 (2016-W17),Situation report,0.0,0.0
+686,Sierra Leone,25 to 31 August 2014 (2014-W35),Patient database,376.0,32.0
+687,Sierra Leone,25 to 31 August 2014 (2014-W35),Situation report,0.0,0.0
+688,Sierra Leone,25 to 31 January 2016 (2016-W04),Patient database,0.0,0.0
+689,Sierra Leone,25 to 31 January 2016 (2016-W04),Situation report,0.0,0.0
+690,Sierra Leone,25 to 31 May 2015 (2015-W22),Patient database,28.0,20.0
+691,Sierra Leone,25 to 31 May 2015 (2015-W22),Situation report,24.0,0.0
+692,Sierra Leone,26 January to 01 February 2015 (2015-W05),Patient database,169.0,71.0
+693,Sierra Leone,26 January to 01 February 2015 (2015-W05),Situation report,160.0,0.0
+694,Sierra Leone,26 May to 01 June 2014 (2014-W22),Patient database,34.0,4.0
+695,Sierra Leone,26 May to 01 June 2014 (2014-W22),Situation report,0.0,0.0
+696,Sierra Leone,26 October to 01 November 2015 (2015-W44),Patient database,0.0,0.0
+697,Sierra Leone,26 October to 01 November 2015 (2015-W44),Situation report,0.0,0.0
+698,Sierra Leone,27 April to 03 May 2015 (2015-W18),Patient database,15.0,20.0
+699,Sierra Leone,27 April to 03 May 2015 (2015-W18),Situation report,18.0,0.0
+700,Sierra Leone,27 January to 02 February 2014 (2014-W05),Patient database,0.0,0.0
+701,Sierra Leone,27 January to 02 February 2014 (2014-W05),Situation report,0.0,0.0
+702,Sierra Leone,27 July to 02 August 2015 (2015-W31),Patient database,4.0,4.0
+703,Sierra Leone,27 July to 02 August 2015 (2015-W31),Situation report,4.0,0.0
+704,Sierra Leone,27 October to 02 November 2014 (2014-W44),Patient database,1009.0,259.0
+705,Sierra Leone,27 October to 02 November 2014 (2014-W44),Situation report,870.0,10.0
+706,Sierra Leone,27 October to 09 November 2014 (2014-W45),Patient database,1023.0,259.0
+707,Sierra Leone,27 October to 09 November 2014 (2014-W45),Situation report,842.0,0.0
+708,Sierra Leone,28 April to 04 May 2014 (2014-W18),Patient database,0.0,0.0
+709,Sierra Leone,28 April to 04 May 2014 (2014-W18),Situation report,0.0,0.0
+710,Sierra Leone,28 December 2015 to 03 January 2016 (2015-W53),Patient database,0.0,0.0
+711,Sierra Leone,28 December 2015 to 03 January 2016 (2015-W53),Situation report,0.0,0.0
+712,Sierra Leone,28 July to 03 August 2014 (2014-W31),Patient database,288.0,14.0
+713,Sierra Leone,28 July to 03 August 2014 (2014-W31),Situation report,0.0,0.0
+714,Sierra Leone,28 March to 03 April 2016 (2016-W13),Patient database,0.0,0.0
+715,Sierra Leone,28 March to 03 April 2016 (2016-W13),Situation report,0.0,0.0
+716,Sierra Leone,28 September to 04 October 2015 (2015-W40),Patient database,0.0,0.0
+717,Sierra Leone,28 September to 04 October 2015 (2015-W40),Situation report,0.0,0.0
+718,Sierra Leone,29 December 2014 to 04 January 2015 (2015-W01),Patient database,683.0,120.0
+719,Sierra Leone,29 December 2014 to 04 January 2015 (2015-W01),Situation report,496.0,0.0
+720,Sierra Leone,29 February to 06 March 2016 (2016-W09),Patient database,0.0,0.0
+721,Sierra Leone,29 February to 06 March 2016 (2016-W09),Situation report,0.0,0.0
+722,Sierra Leone,29 June to 05 July 2015 (2015-W27),Patient database,18.0,22.0
+723,Sierra Leone,29 June to 05 July 2015 (2015-W27),Situation report,18.0,0.0
+724,Sierra Leone,29 September to 05 October 2014 (2014-W40),Patient database,730.0,95.0
+725,Sierra Leone,29 September to 05 October 2014 (2014-W40),Situation report,630.0,0.0
+726,Sierra Leone,30 December 2013 to 05 January 2014 (2014-W01),Patient database,0.0,0.0
+727,Sierra Leone,30 December 2013 to 05 January 2014 (2014-W01),Situation report,0.0,0.0
+728,Sierra Leone,30 June to 06 July 2014 (2014-W27),Patient database,175.0,12.0
+729,Sierra Leone,30 June to 06 July 2014 (2014-W27),Situation report,0.0,0.0
+730,Sierra Leone,30 March to 05 April 2015 (2015-W14),Patient database,21.0,48.0
+731,Sierra Leone,30 March to 05 April 2015 (2015-W14),Situation report,18.0,0.0
+732,Sierra Leone,30 November to 06 December 2015 (2015-W49),Patient database,0.0,0.0
+733,Sierra Leone,30 November to 06 December 2015 (2015-W49),Situation report,0.0,0.0
+734,Sierra Leone,31 August to 06 September 2015 (2015-W36),Patient database,0.0,0.0
+735,Sierra Leone,31 August to 06 September 2015 (2015-W36),Situation report,2.0,0.0
+736,Sierra Leone,31 March to 06 April 2014 (2014-W14),Patient database,0.0,0.0
+737,Sierra Leone,31 March to 06 April 2014 (2014-W14),Situation report,0.0,0.0
